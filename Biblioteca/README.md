@@ -12,9 +12,19 @@ consultarLivros.html - Página  em construção.
 Respostas do Questionário:
 
 •	O que é reuso de software?
-É o processo de incorporar em um novo produto: um novo código, especificações de requisitos e projeto, 
-planos de teste, planos de teste, qualquer produto gerado durante desenvolvimentos anteriores, 
-conhecimento em geral.
+Tem por base o uso de conceitos, produtos ou soluções previamente elaboradas ou adquiridas para 
+criação de um novo software, visando melhorar significativamente a qualidade e a produtividade. 
+Reusar um produto significa poder reusar partes de um sistema desenvolvido anteriormente como: 
+especificações, módulos de um projeto, arquitetura e código fonte. É a reaplicação de informações 
+e artefatos de um sistema já definido, em outros sistemas semelhantes. O termo reuso pode ser 
+considerado uma denominação genérica para uma série de técnicas utilizadas, que vão desde a 
+etapa de modelagem de um projeto até a implementação.
+A principal motivação para a reutilização está relacionada ao aumento dos níveis de qualidade e 
+produtividade no desenvolvimento de software. O aumento de qualidade é uma conseqüência da 
+reutilização de componentes que foram previamente documentados, testados e aprovados. 
+O aumento da produtividade é resultado de uma redução no tempo de desenvolvimento, evitando 
+a reconstrução de partes do sistema que já existem. A reutilização pode ser introduzida em 
+diferentes fases e níveis do desenvolvimento de software: requisitos, design, código.
 
 •	Quais os benefícios esperados do reuso de software?
 Produtos de melhor qualidade, mais confiáveis, consistentes e padronizados;
@@ -22,9 +32,7 @@ Maior flexibilidade na estrutura do software produzido, facilitando sua manuten�
 Desenvolvimento acelerado: economia no tempo de desenvolvimento e validação.
 
 •	Diferencie Reuso Ad Hoc de Reuso Sistemático
-Reuso Ad Hoc são práticas ágeis que trabalham de forma sutil, mas eficaz na promoção de um reuso, 
-ou seja, refere-se à seleção de componentes os quais não são designados para reuso de bibliotecas 
-genéricas; o reuso é conduzido de maneira informal.
+Reuso Ad Hoc é quando não há processo definido para reuso,ou seja, o reuso é conduzido de maneira informal.
 Reuso Sistemático são práticas que incluem toda a sistematização do reuso fundamentada em prover 
 frameworks e ferramentas de apoio como geradores de código e roteiros que maximizam o reuso através 
 de atividades de arquitetura e modelos UML para auxiliar no entendimento de interfaces e integrações.
